@@ -1,0 +1,43 @@
+item_name_begin	id=709	name=[Leather Shirt]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=713	name=[Leather Pants]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=21	name=[Shirt]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=22	name=[Leather Shirt]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=28	name=[Pants]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=29	name=[Leather Pants]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=394	name=[Reinforced Leather Shirt]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=395	name=[Manticore Skin Shirt]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=396	name=[Salamander Skin Mail]	additionalname=[]	description=[One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this.]	popup=-1	item_name_end
+item_name_begin	id=397	name=[Mithril Shirt]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=398	name=[Plated Leather]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=399	name=[Rind Leather Armor]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=400	name=[Theca Leather Armor]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=401	name=[Drake Leather Armor]	additionalname=[]	description=[Full body armor.]	popup=-1	item_name_end
+item_name_begin	id=402	name=[Chain Mail of Silence]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=403	name=[Gust Chain Mail]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=404	name=[Prairie Leather Armor]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=405	name=[Leather Armor of The Underworld]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=406	name=[Leather Suit of Concentration]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=407	name=[Ace's Leather Armor]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=408	name=[Guardian's Leather Armor]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=409	name=[Marksman's Leather Armor ]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=410	name=[Unicorn Leather Armor]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=411	name=[Dragon Leather Armor]	additionalname=[]	description=[One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this.]	popup=-1	item_name_end
+item_name_begin	id=2384	name=[Zubei's Leather Shirt]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=2385	name=[Dark Crystal Leather Armor]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=2386	name=[Wooden Gaiters]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=2387	name=[Tempered Mithril Gaiters]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=2388	name=[Zubei's Leather Gaiters]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=2389	name=[Dark Crystalline Leggings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=2390	name=[Avadon Leather Armor]	additionalname=[]	description=[Full body armor.]	popup=-1	item_name_end
+item_name_begin	id=2391	name=[Blue Wolf Leather Armor]	additionalname=[]	description=[Full body armor.]	popup=-1	item_name_end
+item_name_begin	id=2392	name=[Leather Armor of Doom]	additionalname=[]	description=[Full body armor. ]	popup=-1	item_name_end
+item_name_begin	id=2393	name=[Tallum Leather Armor]	additionalname=[]	description=[Full body armor.]	popup=-1	item_name_end
+item_name_begin	id=2394	name=[Nightmarish Leather Armor]	additionalname=[]	description=[Full body armor. ]	popup=-1	item_name_end
+item_name_begin	id=2395	name=[Majestic Leather Armor]	additionalname=[]	description=[Full body armor.]	popup=-1	item_name_end
+item_name_begin	id=5297	name=[Sealed Dark Crystal Leather Armor]	additionalname=[]	description=[Sealed dark crystal leather armor. Its seal can be broken with the help of the Blacksmith of Mammon.]	popup=-1	item_name_end
+item_name_begin	id=5298	name=[Sealed Dark Crystalline Leggings]	additionalname=[]	description=[Sealed dark crystalline leggings. Its seal can be broken with the help of the Blacksmith of Mammon.]	popup=-1	item_name_end
+item_name_begin	id=5301	name=[Sealed Tallum Leather Armor]	additionalname=[]	description=[Sealed tallum leather armor. Its seal can be broken with the help of the Blacksmith of Mammon.]	popup=-1	item_name_end
+item_name_begin	id=5320	name=[Sealed Leather Armor of Nightmare]	additionalname=[]	description=[Sealed leather armor of nightmare. Its seal can be broken with the help of the Blacksmith of Mammon.]	popup=-1	item_name_end
+item_name_begin	id=5323	name=[Sealed Majestic Leather Armor]	additionalname=[]	description=[Sealed majestic leather armor. Its seal can be broken with the help of the Blacksmith of Mammon.]	popup=-1	item_name_end
+item_name_begin	id=6379	name=[Draconic Leather Armor]	additionalname=[]	description=[Full body armor.]	popup=-1	item_name_end
+item_name_begin	id=6680	name=[Sealed Draconic Leather Armor]	additionalname=[]	description=[Sealed Draconic Leather Armor. Its seal can be broken with the help of the Blacksmith of Mammon.]	popup=-1	item_name_end

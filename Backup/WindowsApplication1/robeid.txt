@@ -1,0 +1,94 @@
+item_name_begin	id=425	name=[Apprentice's Tunic]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=426	name=[Tunic]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=427	name=[Cotton Robe]	additionalname=[]	description=[One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this.]	popup=-1	item_name_end
+item_name_begin	id=428	name=[Feriotic Tunic]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=429	name=[Leather Tunic]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=430	name=[Robe of Devotion]	additionalname=[]	description=[One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this.]	popup=-1	item_name_end
+item_name_begin	id=431	name=[Robe of Magic]	additionalname=[]	description=[One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this.]	popup=-1	item_name_end
+item_name_begin	id=432	name=[Cursed Tunic]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=433	name=[Elven Tunic]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=434	name=[White Tunic]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=435	name=[Mystic's Tunic]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=436	name=[Tunic of Knowledge]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=437	name=[Mithril Tunic]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=438	name=[Sage's Rag]	additionalname=[]	description=[One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this.]	popup=-1	item_name_end
+item_name_begin	id=439	name=[Karmian Tunic]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=440	name=[Robe of Seal]	additionalname=[]	description=[One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this.]	popup=-1	item_name_end
+item_name_begin	id=441	name=[Demon's Tunic]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=442	name=[Divine Tunic]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=443	name=[Tunic of Mana]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=444	name=[Sage's Robe]	additionalname=[]	description=[One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this.]	popup=-1	item_name_end
+item_name_begin	id=445	name=[Paradia Tunic]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=446	name=[Inferno Tunic]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=447	name=[Tunic of Solar Eclipse]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=448	name=[Robe of Black Ore]	additionalname=[]	description=[One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this.]	popup=-1	item_name_end
+item_name_begin	id=449	name=[Tunic of Summoning]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=450	name=[Otherworldly Robe]	additionalname=[]	description=[One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this.]	popup=-1	item_name_end
+item_name_begin	id=451	name=[Elemental Tunic]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=452	name=[Tunic of Phantom]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=453	name=[Tunic of Grace]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=454	name=[Robe of Holy Spirit]	additionalname=[]	description=[One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this.]	popup=-1	item_name_end
+item_name_begin	id=455	name=[Phoenix Tunic]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=456	name=[Cerberus Tunic]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=457	name=[Tunic of Aid]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=458	name=[Robe of Blessing]	additionalname=[]	description=[One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this.]	popup=-1	item_name_end
+item_name_begin	id=459	name=[Dasparion's Robe]	additionalname=[]	description=[One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this.]	popup=-1	item_name_end
+item_name_begin	id=460	name=[The Robe]	additionalname=[]	description=[One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this.]	popup=-1	item_name_end
+item_name_begin	id=461	name=[Apprentice's Stockings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=462	name=[Stockings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=463	name=[Feriotic Stockings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=464	name=[Leather Stockings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=465	name=[Cursed Stockings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=466	name=[Elven Stockings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=467	name=[Dark Stockings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=468	name=[Mystic's Stockings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=469	name=[Stockings of Knowledge]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=470	name=[Mithril Stockings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=471	name=[Karmian Stockings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=472	name=[Demon's Stockings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=473	name=[Divine Stockings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=474	name=[Stockings of Mana]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=475	name=[Paradia Stockings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=476	name=[Inferno Stockings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=477	name=[Stockings of Solar Eclipse]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=478	name=[Stockings of Summoning]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=479	name=[Elemental Stockings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=480	name=[Stockings of Phantom]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=481	name=[Stockings of Grace]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=482	name=[Phoenix Stockings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=483	name=[Cerberus Stockings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=484	name=[Stockings of Aid]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=1100	name=[Cotton Tunic]	additionalname=[]	description=[A tunic made of tough cotton.]	popup=-1	item_name_end
+item_name_begin	id=1101	name=[Tunic of Devotion]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=1102	name=[Tunic of Magic]	additionalname=[]	description=[A tunic, comfortably designed for mages.]	popup=-1	item_name_end
+item_name_begin	id=1103	name=[Cotton Stockings]	additionalname=[]	description=[A pair of pants made of tough cotton.]	popup=-1	item_name_end
+item_name_begin	id=1104	name=[Stockings of Devotion]	additionalname=[]	description=[Part of the devotion set.]	popup=-1	item_name_end
+item_name_begin	id=1105	name=[Stockings of Magic]	additionalname=[]	description=[A pair of pants, comfortably designed for mages.]	popup=-1	item_name_end
+item_name_begin	id=1119	name=[Short Leather Gloves]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=1120	name=[Pa'agrian Hand]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=1310	name=[Tunic of Magic]	additionalname=[]	description=[A temporary item for Kamex]	popup=-1	item_name_end
+item_name_begin	id=1311	name=[Puma Skin Shirt]	additionalname=[]	description=[A temporary item for Kamex]	popup=-1	item_name_end
+item_name_begin	id=1312	name=[White Tunic]	additionalname=[]	description=[A temporary item for Kamex]	popup=-1	item_name_end
+item_name_begin	id=1315	name=[Stockings of Magic]	additionalname=[]	description=[A temporary item for Kamex]	popup=-1	item_name_end
+item_name_begin	id=1317	name=[Dark Stockings]	additionalname=[]	description=[A temporary item for Kamex]	popup=-1	item_name_end
+item_name_begin	id=2396	name=[Elven Mithril Tunic]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=2397	name=[Tunic of Zubei]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=2398	name=[Blue Wolf Tunic]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=2399	name=[Tunic of Doom]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=2400	name=[Tallum Tunic]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=2401	name=[Elven Mithril Stockings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=2402	name=[Stockings of Zubei]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=2403	name=[Blue Wolf Stockings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=2404	name=[Stockings of Doom]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=2405	name=[Tallum Stockings]	additionalname=[]	description=[]	popup=-1	item_name_end
+item_name_begin	id=2406	name=[Avadon Robe]	additionalname=[]	description=[Full body armor.]	popup=-1	item_name_end
+item_name_begin	id=2407	name=[Dark Crystal Robe]	additionalname=[]	description=[Full body armor.]	popup=-1	item_name_end
+item_name_begin	id=2408	name=[Robe of Nightmare]	additionalname=[]	description=[Full body armor.]	popup=-1	item_name_end
+item_name_begin	id=2409	name=[Majestic Robe]	additionalname=[]	description=[Full body armor.]	popup=-1	item_name_end
+item_name_begin	id=5304	name=[Sealed Tallum Tunic]	additionalname=[]	description=[Sealed tallum tunic. Its seal can be broken with the help of the Blacksmith of Mammon.]	popup=-1	item_name_end
+item_name_begin	id=5305	name=[Sealed Tallum Stockings]	additionalname=[]	description=[Sealed tallum stockings. Its seal can be broken with the help of the Blacksmith of Mammon.]	popup=-1	item_name_end
+item_name_begin	id=5308	name=[Sealed Dark Crystal Robe]	additionalname=[]	description=[Sealed dark crystal robe. Its seal can be broken with the help of the Blacksmith of Mammon.]	popup=-1	item_name_end
+item_name_begin	id=5326	name=[Sealed Robe of Nightmare]	additionalname=[]	description=[Sealed robe of nightmare. Its seal can be broken with the help of the Blacksmith of Mammon.]	popup=-1	item_name_end
+item_name_begin	id=5329	name=[Sealed Majestic Robe]	additionalname=[]	description=[Sealed majestic robe. Its seal can be broken with the help of the Blacksmith of Mammon.]	popup=-1	item_name_end
+item_name_begin	id=6383	name=[Major Arcana Robe]	additionalname=[]	description=[Full body armor.]	popup=-1	item_name_end
+item_name_begin	id=6684	name=[Sealed Major Arcana Robe]	additionalname=[]	description=[Sealed Major Arcana Robe. Its seal can be broken with the help of the Blacksmith of Mammon.]	popup=-1	item_name_end
